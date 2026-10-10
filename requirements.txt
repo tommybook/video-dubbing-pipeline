@@ -8,3 +8,4 @@ git+https://github.com/m-bain/whisperx.git
 git+https://github.com/myshell-ai/OpenVoice.git
 git+https://github.com/myshell-ai/MeloTTS.git
 faster-whisper==1.0.0
+gdown

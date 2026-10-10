@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# model checkpoints
+checkpoints*/
+*.zip
+
+# pipeline outputs
+*.wav
+/*.mp4
